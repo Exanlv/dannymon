@@ -43,7 +43,7 @@
 **007.Squirtle**
 
 
-*- Not completed*
+![Dannymon, 007.Squirtle](./007.Squirtle/result.png)
 
 
 
