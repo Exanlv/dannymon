@@ -1,0 +1,17 @@
+#!/bin/python3
+
+import os
+
+pokemons = os.listdir('./')
+pokemons.sort()
+
+for pokemon in pokemons:
+    if pokemon in ['readme.md', 'generate']:
+        continue
+
+    print('**' + pokemon + '**\n\n')
+    if os.path.isfile('./' + pokemon + '/result.png'):
+        print('![Dannymon, ' + pokemon + '](./' + pokemon + '/result.png)\n\n\n')
+    else:
+        print('*- Not completed*\n\n\n')
+
