@@ -22,7 +22,7 @@
 **004.Charmander**
 
 
-*- Not completed*
+![Dannymon, 004.Charmander](./004.Charmander/result.png)
 
 
 
