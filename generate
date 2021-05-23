@@ -6,7 +6,7 @@ pokemons = os.listdir('./')
 pokemons.sort()
 
 for pokemon in pokemons:
-    if pokemon in ['readme.md', 'generate']:
+    if pokemon in ['readme.md', 'generate', '.git']:
         continue
 
     print('**' + pokemon + '**\n\n')

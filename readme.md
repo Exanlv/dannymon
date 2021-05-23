@@ -1,10 +1,3 @@
-**.git**
-
-
-*- Not completed*
-
-
-
 **001.Bulbasaur**
 
 
