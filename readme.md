@@ -666,7 +666,7 @@
 **096.Drowzee**
 
 
-*- Not completed*
+![Dannymon, 096.Drowzee](./096.Drowzee/result.png)
 
 
 
