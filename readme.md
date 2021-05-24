@@ -169,7 +169,7 @@
 **025.Pikachu**
 
 
-*- Not completed*
+![Dannymon, 025.Pikachu](./025.Pikachu/result.png)
 
 
 
