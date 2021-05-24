@@ -372,7 +372,7 @@
 **054.Psyduck**
 
 
-*- Not completed*
+![Dannymon, 054.Psyduck](./054.Psyduck/result.png)
 
 
 
